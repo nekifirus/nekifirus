@@ -137,23 +137,23 @@ Technologies:
 
 * August 1984 - present time
 
-March 2008 - present time: Using Linux for all
+** March 2008 - present time: Using Linux for all
 
-August 2018 - present time: building own Emacs configuration
+** August 2018 - present time: building own Emacs configuration
 https://github.com/nekifirus/.emacs.d
 
-October 2018 - present time: building own NixOS configuration
+** October 2018 - present time: building own NixOS configuration
 https://github.com/nekifirus/nixos
 
-April 2017 - November 2017: first pet project
+** April 2017 - November 2017: first pet project
 https://github.com/nekifirus/stopvk
+
 It removes myself from russian government controlled social network VK.com
 
-October 1997 - Dec 2010: member of amateur theater "Vstrecha"
-Jan 1999 - Jan 2016: works as "russian Santa"
-
-1999 - present time: hiking, camping
-1989 - present time: cycling
-2016 - present time: motorcycles
-2013 - 2021: 14 cats, 4 dogs, 4 goats, 3 pigs, hundreds chickens. Own little farm.
-1999 - 2003: Rock music
+** October 1997 - Dec 2010: member of amateur theater "Vstrecha"
+** Jan 1999 - Jan 2016: works as "russian Santa"
+** 1999 - present time: hiking, camping
+** 1989 - present time: cycling
+** 2016 - present time: motorcycles
+** 2013 - 2021: 14 cats, 4 dogs, 4 goats, 3 pigs, hundreds chickens. Own little farm.
+** 1999 - 2003: Rock music
