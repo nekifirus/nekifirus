@@ -1,0 +1,159 @@
+Hello, my name is Nikita. I'm 38 years old. I'm married. Last year we
+are living in Alanya, Turkiye.
+
+I like to build systems. Software systems, working processes,
+organizations etc. I like to solve difficult problems. I like to keep
+my attention on this problems, look at it from different sides,
+analyze it, build opinions and make decisions.
+
+My main skills:
+
+- highlight important
+- attention control
+
+I've opened for a job offers.
+
+We can talk about every of strange words described here. 
+
+Feel free to ask me: nekifirus@gmail.com
+
+* Algorithmic Trading Bot June 2019 - November 2022
+I has started to work for this product without skills in language it
+written. But at the end I was a CTO of company this product owns.
+
+It is big and difficult platform for algorithmic trading on
+cryptocurrency exchanges. Product decides when it needs to buy or to
+sell assets and made real profits to customers. Tens of thousands customers.
+
+Principles:
+- DDD
+- TDD
+- GTD
+
+Languages:
+- Python
+- JavaScript
+- Solidity
+
+Solutions:
+- Poetry
+- EtherJS
+- NodeJS
+
+Frameworks and libraries:
+- Celery
+- SQLAlchemy
+- Flask
+- FastAPI
+- ccxt
+- VueJS
+- ReactJS
+- Redux
+- ReduxSaga
+
+Technologies:
+- PostgresQL
+- RabbitMQ
+- Redis
+- Apache Kafka 
+
+* Cryptocurrency Loan Platform Dec 2017 - June 2019
+Great startup about cryptocurrency loans. A lot of investments and almost
+hundred thousands customers. The heart of this project for me as a
+developer of product is cryptocurrency processing system.
+
+We made thing that generate addresses, check, build, sign
+transactions. It works perfectly. Elixir language in that moment
+doesn't have libraries for this jobs and we made it our self.
+
+Languages:
+- Elixir
+
+Solutions:
+- Mix
+
+Frameworks and libraries:
+- Phoenix
+- Ecto
+
+Technologies:
+- PostgresQL
+- Bitcoin
+- Ethereum
+- BitcoinCash
+- ERC20 Contracts
+
+
+* TRK Eurasia May 2007 - Feb 2014
+I've started as a guy who entertain radio listeners and finished as a
+head of information department. I know how to build news, how to
+delivery important information by voice, text, radio, TV, Internet
+etc.
+
+I've reorganize 5 parallel news departments in one structure -
+information agency. Distributed agency, based in 4 cities, near 70
+employeеs. I've managed it for 3 years and leaved it. This structure
+continues work for a present time.
+
+Languages:
+- Russian
+
+Solutions:
+- Email
+- Phone
+
+Technologies:
+- Social connections
+- Management
+- Text
+- Voice
+- Radio
+- Photo
+- Video
+  
+* OOO "DOM" May 2001 - April 2004
+In 2001, when I was seventeen, I've started to work in house service
+company and make my first software system - the bill payments system.
+
+I didn't know any program language and build system with Microsoft
+Excel 97. The system calculate bills by squares and count of people in
+flat and prints paper bills with home laser printer. I've refactored
+it later with conditions and cycles.
+
+I've managed employees and solved some problems - bank checks,
+calculations, taxes also.
+
+Languages:
+- Russian
+- VisualBasic
+
+Solutions:
+- Microsoft Excel 97
+
+Technologies:
+- Phone
+- Social connections
+
+
+* August 1984 - present time
+
+March 2008 - present time: Using Linux for all
+
+August 2018 - present time: building own Emacs configuration
+https://github.com/nekifirus/.emacs.d
+
+October 2018 - present time: building own NixOS configuration
+https://github.com/nekifirus/nixos
+
+April 2017 - November 2017: first pet project
+https://github.com/nekifirus/stopvk
+It removes myself from russian government controlled social network VK.com
+
+October 1997 - Dec 2010: member of amateur theater "Vstrecha"
+Jan 1999 - Jan 2016: works as "russian Santa"
+
+1999 - present time: hiking, camping
+1989 - present time: cycling
+2016 - present time: motorcycles
+2013 - 2021: 14 cats, 4 dogs, 4 goats, 3 pigs, hundreds chickens. Own little farm.
+1999 - 2003: Rock music
