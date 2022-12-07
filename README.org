@@ -1,160 +1,95 @@
-Hello, my name is Nikita. I'm 38 years old. I'm married. Last year we
-are living in Alanya, Turkiye.
-
-I like to build systems. Software systems, working processes,
-organizations etc. I like to solve difficult problems. I like to keep
-my attention on this problems, look at it from different sides,
-analyze it, build opinions and make decisions.
+Hello, my name is Nikita. I'm 38. I'm married. We are currently living in Alanya, Turkey.
 
 My main skills:
+- to learn
+- to create
+- to grow
 
-- make simple from difficult
-- attention control
-- highlight important
+I experienced in learning, creating and growing all kinds of systems:
+software, organizations, working processes, events etc.
 
-I've opened for a job offers.
+I enjoy to solving difficult problems. I like to focus on them, look
+at them from different angles, analyze them, build opinions and make
+decisions.
 
-We can talk about every of strange words described here. 
+At free time I like to cycling, camping, listening music.
 
-Feel free to ask me: nekifirus@gmail.com
+* Algorithmic trading bot June 2019 - November 2022
+It is a big and a difficult platform for algorithmic trading on
+cryptocurrency exchanges. Product decides when it needs to buy/sell
+assets and makes real profits to customers. Tens of thousands
+customers.
 
-* Algorithmic Trading Bot June 2019 - November 2022
-I has started to work for this product without skills in language it
-written. But at the end I was a CTO of company this product owns.
+I created a lot of subsystems - notifications, market analyze, trading decisions etc.
 
-It is big and difficult platform for algorithmic trading on
-cryptocurrency exchanges. Product decides when it needs to buy or to
-sell assets and made real profits to customers. Tens of thousands customers.
+I grown from junior Python developer to CTO.
 
-Principles:
-- DDD
-- TDD
-- GTD
-
-Languages:
-- Python
-- JavaScript
-- Solidity
-
-Solutions:
-- Poetry
-- EtherJS
-- NodeJS
-
-Frameworks and libraries:
-- Celery
-- SQLAlchemy
-- Flask
-- FastAPI
-- ccxt
-- VueJS
-- ReactJS
-- Redux
-- ReduxSaga
-
-Technologies:
-- PostgresQL
-- RabbitMQ
-- Redis
-- Apache Kafka 
-
-* Cryptocurrency Loan Platform Dec 2017 - June 2019
-Great startup about cryptocurrency loans. A lot of investments and almost
-hundred thousands customers. The heart of this project for me as a
-developer of product is cryptocurrency processing system.
-
-We made thing that generate addresses, check, build, sign
-transactions. It works perfectly. Elixir language in that moment
-doesn't have libraries for this jobs and we made it our self.
-
-Languages:
-- Elixir
-
-Solutions:
-- Mix
-
-Frameworks and libraries:
-- Phoenix
-- Ecto
-
-Technologies:
-- PostgresQL
-- Bitcoin
-- Ethereum
-- BitcoinCash
-- ERC20 Contracts
-
-
-* TRK Eurasia May 2007 - Feb 2014
-I've started as a guy who entertain radio listeners and finished as a
-head of information department. I know how to build news, how to
-delivery important information by voice, text, radio, TV, Internet
-etc.
-
-I've reorganize 5 parallel news departments in one structure -
-information agency. Distributed agency, based in 4 cities, near 70
-employeеs. I've managed it for 3 years and leaved it. This structure
-continues work for a present time.
-
-Languages:
-- Russian
-
-Solutions:
-- Email
-- Phone
-
-Technologies:
-- Social connections
-- Management
-- Text
-- Voice
-- Radio
-- Photo
-- Video
+I learned:
+- programming languages: Python, JavaScript, Solidity
+- solutions: Poetry, NodeJS
+- frameworks: Celery, SQLAlchemy, Flask, FastAPI, ccxt, EtherJS, VueJS, ReactJS, Redux, ReduxSaga
+- technologies: PostgreSQL, RabbitMQ, Redis, Apache Kafka
   
+* Cryptocurrency loan platform Dec 2017 - June 2019
+Startup about cryptocurrency loans, many investments and almost
+hundred thousands customers. 
+
+I grown from junior Elixir developer to Team Lead.
+
+I created cryptocurrency processing subsystem. It generates addresses,
+checks incoming, builds and signs outgoing blockchain transactions.
+
+I learned web development, relational databases, low level of
+blockchain transactions in Bitcoin and Ethereum chains. At that time
+Elixir didn't have tools to work with cryptocurrencies. So we made it
+ourselves.
+
+I learned Elixir and Phoenix Framework, SQL and Ecto Framework, smart
+contracts basics.
+
+* Voice call bot September 2019 - June 2020
+Project allows customers to graphically build scripts for voice bots
+and schedule calls, collect and analyze answers. Hundreds customers.
+
+I created architecture solution, development workflow.
+
+I helped to grow teammates.
+
+I learned what Asterisk is and how sale scripts built.
+
+* Retail contract platoform July 2018 - January 2019
+A little platform for connect wholesalers and buyers in retail
+industry. Hundreds customers in two countries.
+
+I created a telegram bot for price comparison. The agent takes a photo
+of barcode at a competitor's store and sends a price of the
+item. Telegram bot recognizes photo, collects and stores data. This
+helps clients find and control contractors.
+
+I learned and grew up in relation databases, Elixir, JavaScript.
+ 
+* TRK Eurasia May 2007 - Feb 2014
+Local media company. Hundreds thousands customers.
+
+I grown from a guy who entertain radio listeners to a head of
+information agency.
+
+I created organization structure of distributed convergent information
+agency by combining 5 parallel news departments.
+
+I learned how to organize news feeds and manage distributed teams.
+
+I learned myself and educated other to be convergent journalist: prepare photo, write
+news articles for the Internet, report on TV, radio and go live from anywhere.
+
 * OOO "DOM" May 2001 - April 2004
-In 2001, when I was seventeen, I've started to work in house service
-company and make my first software system - the bill payments system.
+A little home maintenance company. Thousand customers.
 
-I didn't know any program language and build system with Microsoft
-Excel 97. The system calculate bills by squares and count of people in
-flat and prints paper bills with home laser printer. I've refactored
-it later with conditions and cycles.
+I created my first software - a bill payments system. I didn't know
+any programming language and used Microsoft Excel 97. The system
+calculated and printed paper invoices on a home laser printer. Later I
+refactored it with conditions and loops.
 
-I've managed employees and solved some problems - bank checks,
-calculations, taxes also.
+I learned basics of management, banking, finance, taxes, social relations.
 
-Languages:
-- Russian
-- VisualBasic
-
-Solutions:
-- Microsoft Excel 97
-
-Technologies:
-- Phone
-- Social connections
-
-
-* August 1984 - present time
-
-** March 2008 - present time: Using Linux for all
-
-** August 2018 - present time: building own Emacs configuration
-https://github.com/nekifirus/.emacs.d
-
-** October 2018 - present time: building own NixOS configuration
-https://github.com/nekifirus/nixos
-
-** April 2017 - November 2017: first pet project
-https://github.com/nekifirus/stopvk
-
-It removes myself from russian government controlled social network VK.com
-
-** October 1997 - Dec 2010: member of amateur theater "Vstrecha"
-** Jan 1999 - Jan 2016: works as "russian Santa"
-** 1999 - present time: hiking, camping
-** 1989 - present time: cycling
-** 2016 - present time: motorcycles
-** 2013 - 2021: 14 cats, 4 dogs, 4 goats, 3 pigs, hundreds chickens. Own little farm.
-** 1999 - 2003: Rock music
+I grew up on my own. I was seventeen at the beginning.
