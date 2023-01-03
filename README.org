@@ -14,82 +14,8 @@ decisions.
 
 At free time I like to cycling, camping, listening music.
 
-* Algorithmic trading bot June 2019 - November 2022
-It is a big and a difficult platform for algorithmic trading on
-cryptocurrency exchanges. Product decides when it needs to buy/sell
-assets and makes real profits to customers. Tens of thousands
-customers.
+You can read [[file:cv.org][my employment history]] if you interested.
 
-I created a lot of subsystems - notifications, market analyze, trading decisions etc.
+I'm writing Clojure now. Only one public [[https://github.com/nekifirus/sac][project]] yet.
 
-I grown from junior Python developer to CTO.
-
-I learned:
-- programming languages: Python, JavaScript, Solidity
-- solutions: Poetry, NodeJS
-- frameworks: Celery, SQLAlchemy, Flask, FastAPI, ccxt, EtherJS, VueJS, ReactJS, Redux, ReduxSaga
-- technologies: PostgreSQL, RabbitMQ, Redis, Apache Kafka
-  
-* Cryptocurrency loan platform Dec 2017 - June 2019
-Startup about cryptocurrency loans, many investments and almost
-hundred thousands customers. 
-
-I grown from junior Elixir developer to Team Lead.
-
-I created cryptocurrency processing subsystem. It generates addresses,
-checks incoming, builds and signs outgoing blockchain transactions.
-
-I learned web development, relational databases, low level of
-blockchain transactions in Bitcoin and Ethereum chains. At that time
-Elixir didn't have tools to work with cryptocurrencies. So we made it
-ourselves.
-
-I learned Elixir and Phoenix Framework, SQL and Ecto Framework, smart
-contracts basics.
-
-* Voice call bot September 2019 - June 2020
-Project allows customers to graphically build scripts for voice bots
-and schedule calls, collect and analyze answers. Hundreds customers.
-
-I created architecture solution, development workflow.
-
-I helped to grow teammates.
-
-I learned what Asterisk is and how sale scripts built.
-
-* Retail contract platoform July 2018 - January 2019
-A little platform for connect wholesalers and buyers in retail
-industry. Hundreds customers in two countries.
-
-I created a telegram bot for price comparison. The agent takes a photo
-of barcode at a competitor's store and sends a price of the
-item. Telegram bot recognizes photo, collects and stores data. This
-helps clients find and control contractors.
-
-I learned and grew up in relation databases, Elixir, JavaScript.
- 
-* TRK Eurasia May 2007 - Feb 2014
-Local media company. Hundreds thousands customers.
-
-I grown from a guy who entertain radio listeners to a head of
-information agency.
-
-I created organization structure of distributed convergent information
-agency by combining 5 parallel news departments.
-
-I learned how to organize news feeds and manage distributed teams.
-
-I learned myself and educated other to be convergent journalist: prepare photo, write
-news articles for the Internet, report on TV, radio and go live from anywhere.
-
-* OOO "DOM" May 2001 - April 2004
-A little home maintenance company. Thousand customers.
-
-I created my first software - a bill payments system. I didn't know
-any programming language and used Microsoft Excel 97. The system
-calculated and printed paper invoices on a home laser printer. Later I
-refactored it with conditions and loops.
-
-I learned basics of management, banking, finance, taxes, social relations.
-
-I grew up on my own. I was seventeen at the beginning.
+Also you can look at my [[https://github.com/nekifirus/.emacs.d][Emacs]] or [[https://github.com/nekifirus/nixos][Nixos]] configs also.
